@@ -25,7 +25,7 @@ SECRET_KEY = 'xr=8=h-&@4o!w#d7#81dj^kib)9_c83q!q--t)x!%llr@)ydmm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['superlists-staging.irodevelpment.xyz']
 
 
 # Application definition
