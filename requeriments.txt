@@ -1,1 +1,2 @@
 django
+unicorn==19.9.0
