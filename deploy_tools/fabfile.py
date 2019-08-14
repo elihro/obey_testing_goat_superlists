@@ -7,5 +7,5 @@ env.user = 'iro'
 env.host = 'hola'
 
 def deploy():
-	site_folder = f'/home/{env.user}/sites/{env.host}'
+	site_folder = f'/home/iro/sites/superlists-staging.irodevelpment.xyz'
 	run(f'mkdir -p {site_folder}')
